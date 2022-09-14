@@ -2,7 +2,7 @@ body{
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #FFFFFF;
-    margin: 20px, 20px, 0px;
+    margin: 20px, 20px, 0px, 20px;
 }
 
 h1{
@@ -92,8 +92,8 @@ div{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: solid 5x #FFFFFF;
-    border-top: solid 2x #FFFFFF;
+    border-right: solid 5px #FFFFFF;
+    border-top: solid 2px #FFFFFF;
     border-bottom: solid 0px;
     border-left: solid 0px;
 }
